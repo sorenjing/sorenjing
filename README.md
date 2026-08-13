@@ -8,9 +8,7 @@
 
 ### Hi, I'm Soren.
 
-Software Engineering student at UESTC and a product engineer with production frontend experience.
-
-我关注产品、软件工程，以及 AI 正在如何改变人与软件的关系。相比给自己贴上固定的技术标签，我更希望持续理解真实问题，并把复杂系统做得清晰、可靠、可用。
+Software Engineering student at UESTC.
 
 ## Selected work
 
@@ -43,13 +41,6 @@ Product Engineer Intern (PE)
 
 **Tencent Music Entertainment**  
 Frontend Engineer Intern
-
-## Capabilities
-
-- **Product & interfaces** — TypeScript, React, Vue, Next.js, interaction and product craft
-- **Services & data** — Node.js, FastAPI, Python, API design and SQLite
-- **AI & developer tools** — LLM applications, MCP, context engineering and evaluation
-- **Production engineering** — SSR, Rspack, internationalization, Docker, CI/CD and reliability
 
 ---
 
