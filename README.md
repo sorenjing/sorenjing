@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="./assets/profile-header.svg" alt="Soren — AI full-stack developer, frontend-rooted" width="100%" />
+<img src="./assets/profile-header.svg" alt="Soren — product engineer building for the AI era" width="100%" />
 
 <br />
 
-[![AI Full-stack](https://img.shields.io/badge/AI_Full--stack-111827?style=for-the-badge&logo=openai&logoColor=38BDF8)](https://github.com/sorenjing)
-[![Agent Engineering](https://img.shields.io/badge/Agent_Engineering-111827?style=for-the-badge&logo=probot&logoColor=2DD4BF)](https://github.com/sorenjing)
-[![Frontend-rooted](https://img.shields.io/badge/Frontend--rooted-111827?style=for-the-badge&logo=typescript&logoColor=60A5FA)](https://github.com/sorenjing)
+[![Product Engineering](https://img.shields.io/badge/Product_Engineering-111827?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/sorenjing)
+[![AI Products](https://img.shields.io/badge/AI_Products-111827?style=for-the-badge&logo=openai&logoColor=2DD4BF)](https://github.com/sorenjing)
+[![Developer Tools](https://img.shields.io/badge/Developer_Tools-111827?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)](https://github.com/sorenjing)
 
-**Software Engineering @ UESTC · Building AI products from interface to agent workflow**
+**Software Engineering @ UESTC · Building reliable products and developer tools for the AI era**
 
 </div>
 
@@ -16,19 +16,19 @@
 
 ## `whoami`
 
-I'm **Soren**, a software engineering student moving from production frontend engineering into **AI full-stack development and Agent engineering**.
+I'm **Soren**, a software engineering student and product engineer with production frontend experience, now building **AI-powered products and developer tools**.
 
-我关注的不只是“调用一个模型 API”，而是如何把 AI 能力真正做成可用、可靠、可观察的产品：从交互体验、状态管理和前端工程化，到 API、Agent 工作流、上下文管理、评测与部署。
+我不是简单地从前端切换到另一个岗位标签，而是在把成熟的前端与软件工程能力延伸到 AI 产品：关注真实用户问题、产品体验、系统可靠性，以及 AI 如何改变软件的构建方式。
 
 ```ts
 const soren = {
-  direction: ["AI Full-stack", "Agent Engineering", "LLM Applications"],
-  edge: "Production frontend engineering",
-  building: ["AI developer tools", "Reliable agent workflows"],
-  stack: {
-    frontend: ["TypeScript", "React", "Vue", "Next.js"],
-    backend: ["Node.js", "FastAPI", "Python", "SQLite"],
-    ai: ["Agents", "MCP", "Context Engineering", "LLM Eval"],
+  focus: ["Product Engineering", "AI Applications", "Developer Tools"],
+  foundation: ["TypeScript", "Frontend Systems", "Product Craft"],
+  building: "Useful, reliable products for the AI era",
+  toolkit: {
+    interfaces: ["React", "Vue", "Next.js"],
+    services: ["Node.js", "FastAPI", "Python", "SQLite"],
+    ai: ["LLM Applications", "MCP", "Context Engineering", "Evaluation"],
     engineering: ["SSR", "Rspack", "Docker", "CI/CD"],
   },
 };
@@ -96,7 +96,7 @@ Frontend-focused product engineering for large-scale web systems, AI engineering
 
 **Frontend Engineer Intern**
 
-Building user-facing products with modern frontend engineering and exploring AI-powered product experiences.
+Building user-facing products with modern frontend engineering.
 
 </td>
 </tr>
@@ -105,16 +105,16 @@ Building user-facing products with modern frontend engineering and exploring AI-
 ## Engineering focus
 
 ```text
-Frontend systems  ──→  AI product interfaces
-Node / Python     ──→  Agent services & workflows
-Context + Eval    ──→  Reliable LLM applications
-Observability     ──→  Reviewable agent behavior
+Product thinking   ──→  Useful AI experiences
+Frontend systems  ──→  Interface & product craft
+Node / Python     ──→  Services & developer tools
+Reliability       ──→  Observable, dependable software
 ```
 
-- **AI product engineering** — Agent workflow、上下文工程、结构化输出、容错与评测
-- **Frontend architecture** — React / Vue、TypeScript、SSR、状态管理、性能与国际化
-- **Full-stack delivery** — Node.js / FastAPI、数据存储、Docker、CI/CD 与可观测性
-- **Reliability by design** — 超时、熔断、降级、风险规则、隐私与安全边界
+- **Product engineering** — 从用户问题出发，跨越界面、服务与工程系统完成交付
+- **AI applications** — 上下文工程、结构化输出、评测、容错与人机协作体验
+- **Developer tools** — Coding Agent 可观测性、共享上下文与本地优先工具
+- **Production engineering** — SSR、性能、国际化、CI/CD、降级与可靠性设计
 
 ## Selected stack
 
@@ -135,9 +135,9 @@ Observability     ──→  Reviewable agent behavior
 
 ## What I'm building toward
 
-> **Frontend-rooted, full-stack capable, Agent-native.**
+> **Product-minded, engineering-driven, AI-oriented.**
 
-我希望构建能解决真实问题的 AI 产品，而不只是模型演示：交互足够清晰，系统足够可靠，Agent 行为可以观察、验证和持续改进。
+我希望构建能解决真实问题的产品，而不只是追逐新的技术标签：让 AI 能力真正可用，让复杂系统保持清晰、可靠，并持续从用户反馈中改进。
 
 <div align="center">
 
