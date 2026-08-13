@@ -77,6 +77,31 @@ const soren = {
 </tr>
 </table>
 
+## Experience
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Xiaohongshu
+
+**Product Engineer Intern (PE)**
+
+Frontend-focused product engineering for large-scale web systems, AI engineering tools, internationalization and SSR reliability.
+
+</td>
+<td width="50%" valign="top">
+
+### Tencent Music Entertainment
+
+**Frontend Engineer Intern**
+
+Building user-facing products with modern frontend engineering and exploring AI-powered product experiences.
+
+</td>
+</tr>
+</table>
+
 ## Engineering focus
 
 ```text
@@ -118,6 +143,6 @@ Observability     ──→  Reviewable agent behavior
 
 [![Explore my work](https://img.shields.io/badge/Explore_my_work-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/sorenjing?tab=repositories)
 
-<sub>Always learning. Always shipping.</sub>
+<sub>Keep learning. Keep building.</sub>
 
 </div>
