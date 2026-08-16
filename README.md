@@ -5,6 +5,8 @@
 </picture>
 
 <p align="center">
+  <a href="https://github.com/sorenjing/smart-email-notifier">Smart Email Notifier</a>
+  &nbsp;·&nbsp;
   <a href="https://github.com/sorenjing/EvolveTrace">EvolveTrace</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/sorenjing/ai-context-kit">AI Context Kit</a>
@@ -15,6 +17,13 @@
 ## Selected work
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/sorenjing/smart-email-notifier">Smart Email Notifier ↗</a></h3>
+      <p>Turn a plain-language reminder goal into email filters, semantic triage, and actionable alerts.</p>
+      <p><code>ChatGPT Skill</code> · <code>Email automation</code> · <code>Semantic triage</code></p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/sorenjing/EvolveTrace">EvolveTrace ↗</a></h3>
