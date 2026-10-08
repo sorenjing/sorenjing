@@ -8,8 +8,8 @@
 
 | 项目 | 简介 |
 | --- | --- |
-| [EvolveTrace](https://github.com/sorenjing/EvolveTrace) | 记录 AI 编程任务的上下文、执行过程与验证证据。 |
-| [AI Context Kit](https://github.com/sorenjing/ai-context-kit) | 在多个 AI 编程工具之间共享可审查的项目上下文。 |
+| [EvolveTrace](https://github.com/sorenjing/EvolveTrace) | 记录 AI 编程任务的上下文、执行过程与验证证据。[访问站点](https://sorenjing-evolvetrace.uas857030604.chatgpt.site/) |
+| [AI Context Kit](https://github.com/sorenjing/ai-context-kit) | 在多个 AI 编程工具之间共享可审查的项目上下文。[访问站点](https://sorenjing-ai-context-kit.uas857030604.chatgpt.site/) |
 | [Smart Email Notifier](https://github.com/sorenjing/smart-email-notifier) | 通过邮箱规则与语义筛选，找出需要行动的邮件。 |
 
 ## 筹备中
